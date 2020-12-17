@@ -1,2 +1,2 @@
-# project-name
-Repository for project-name
+# HTML-CSS
+Repository for HTML-CSS
